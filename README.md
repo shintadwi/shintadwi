@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shintadwi
+- 👋 Hi, I’m Dwi Shinta Angreni
 - 👀 I’m interested in mobile programming and computer vision
 - 🌱 I’m currently learning computer vision
 - 💞️ I’m looking to collaborate on mobile programming and computer vision
